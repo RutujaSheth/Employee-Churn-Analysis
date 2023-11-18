@@ -5,5 +5,6 @@ It helps in designing better retention plans and improving employee satisfaction
 
 [![Employee churn](https://projects.accredian.com/capstone2/hr.png "Employee churn")](http://https://projects.accredian.com/capstone2/hr.png "Employee churn")
 
-In this project, I have retrieved the data from database and indetified challenges present in the data. Performed data preprocessing, EDA and feature engineering. Built ML models, evaluated the models and finalized the best one. 
+In this project, I have retrieved the data from database and indetified challenges present in the data. Performed data preprocessing, EDA and feature engineering. Built ML models, evaluated the models and finalized the best one. The final model created has an accuracy of 97% with 0.97 precision and 0.93 recall.
 If you are interested, then check this project by clicking on #Github link provided below:  
+https://github.com/RutujaSheth/Employee-Churn-Analysis
